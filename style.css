@@ -5,5 +5,6 @@ body {
 h1 {
   color: #8a6540;
   text-align: center;
-  text-shadow: -2px -2px 0px #FFFFFF, 2px 2px 0px #684320; 
+  font-weight: bold;
+  text-shadow: 2px 2px 0px #FFFFFF, -2px -2px 0px #684320; 
 }
