@@ -8,8 +8,3 @@ h1 {
   font-weight: bold;
   text-shadow: 2px 2px 0px #FFFFFF, -2px -2px 0px #684320; 
 }
-
-.hitCounter {
-  border: 1px solid #000000;
-  background-image: linear-gradient(gray, white, gray);
-}
